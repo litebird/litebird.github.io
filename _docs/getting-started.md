@@ -5,7 +5,7 @@ permalink: /docs/getting-started/
 
 ### Access
 Any LiteBIRD collaborator and external collaborator can be member of the LiteBIRD
-GitHub organization. To get access, <a href="mailto:{{ site.email | encode_email }}?{{ site.access_request_template }}">send your github username</a>.
+GitHub organization. In that case, <a href="mailto:{{ site.email | encode_email }}?{{ site.access_request_template }}">send your github username</a> to get access.
 
 
 ### Policy
