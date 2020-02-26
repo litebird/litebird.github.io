@@ -10,7 +10,7 @@ url: https://litebird.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/litebird
 git_edit_address: https://github.com/litebird/litebird.github.io
 access_request_template: >
-  subject=Access to the LiteBIRD GitHub organization&body=Hi Davide,%0D%0A %0D%0A I am officially a LiteBIRD collaborator (or external collaborator) and I'd like to access the GitHub organization (https://github.com/litebird). My username is ...%0D%0A  %0D%0AThanks!
+  subject=Access to the LiteBIRD GitHub organization&body=Hi Davide,%0D%0A %0D%0A I am officially a LiteBIRD collaborator (or external collaborator) and I'd like to access the GitHub organization ( https://github.com/litebird ). My username is ...%0D%0A  %0D%0AThanks!
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
 bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
